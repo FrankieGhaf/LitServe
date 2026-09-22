@@ -1,0 +1,14 @@
+{
+  "owner": "FrankieGhaf",
+  "repositories": [
+    {
+      "source": "Lightning-AI/LitServe",
+      "name": "LitServe",
+      "branch": "main",
+      "stars": 3943,
+      "license": "Apache-2.0",
+      "description": "A minimal Python framework for building custom AI inference servers with full control over logic, batching, and scaling.",
+      "origin": "git@github-frankie-litserve:FrankieGhaf/LitServe.git"
+    }
+  ]
+}
